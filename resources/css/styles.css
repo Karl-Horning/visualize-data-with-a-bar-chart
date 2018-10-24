@@ -5,3 +5,7 @@
     display: inline-block;
     background-color: #03A9F4;
 }
+
+.bar:hover {
+    background-color: #212121;
+}
